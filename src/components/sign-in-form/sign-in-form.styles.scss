@@ -1,0 +1,24 @@
+body {
+    background-color: #637d63;
+}
+
+.sign-in-container {
+    flex: 1;
+}
+
+.form {
+    max-width: 300px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    background: white;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+.form .signInTitle {
+    margin-bottom: 30px;
+    font-size: 20px;
+    text-align: center;
+    font-family: roboto;
+}
